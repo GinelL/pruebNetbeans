@@ -16,6 +16,7 @@ public class fomu1 extends javax.swing.JFrame {
      */
     public fomu1() {
         initComponents();
+        this.setLocationRelativeTo(null);
     }
 
     /**
