@@ -36,7 +36,7 @@ public class fomu1 extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(new java.awt.GridBagLayout());
 
-        jButton1.setText("jButton1");
+        jButton1.setText("Acepta");
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 0;
         gridBagConstraints.gridy = 2;
@@ -44,7 +44,7 @@ public class fomu1 extends javax.swing.JFrame {
         gridBagConstraints.insets = new java.awt.Insets(56, 190, 71, 0);
         getContentPane().add(jButton1, gridBagConstraints);
 
-        jButton2.setText("jButton2");
+        jButton2.setText("Cancelar");
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 1;
         gridBagConstraints.gridy = 2;
